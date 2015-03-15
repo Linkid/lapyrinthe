@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Lapyrinthe'
-copyright = '2015, François Magimel'
+copyright = u'2015, François Magimel'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -198,7 +198,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'Lapyrinthe.tex', 'Lapyrinthe Documentation',
-   'François Magimel', 'manual'),
+   u'François Magimel', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -228,7 +228,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'lapyrinthe', 'Lapyrinthe Documentation',
-     ['François Magimel'], 1)
+     [u'François Magimel'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -242,7 +242,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'Lapyrinthe', 'Lapyrinthe Documentation',
-   'François Magimel', 'Lapyrinthe', 'One line description of project.',
+   u'François Magimel', 'Lapyrinthe', 'A small labyrinth game.',
    'Miscellaneous'),
 ]
 
