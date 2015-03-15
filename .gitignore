@@ -1,0 +1,6 @@
+*.py?
+*.sw?
+*.orig
+
+.coverage
+doc/build
