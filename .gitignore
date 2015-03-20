@@ -3,6 +3,7 @@
 *.orig
 
 .coverage
+.tox
 build/
 dist/
 *.egg-info
