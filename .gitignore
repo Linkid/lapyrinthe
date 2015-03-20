@@ -3,4 +3,7 @@
 *.orig
 
 .coverage
-doc/build
+build/
+dist/
+*.egg-info
+.pypirc
