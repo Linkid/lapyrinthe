@@ -11,6 +11,12 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   install.rst
+   usage.rst
+   labyrinth.rst
+   contribute.rst
+
+Sources, documentation and lapyrinthes are under the GPL v3 License.
 
 
 Indices and tables
@@ -19,4 +25,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
