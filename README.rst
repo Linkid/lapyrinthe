@@ -1,13 +1,18 @@
 Lapyrinthe
 ==========
 
-[![Build Status](https://travis-ci.org/Linkid/lapyrinthe.svg?branch=master)](https://travis-ci.org/Linkid/lapyrinthe)
-[![Documentation Status](https://readthedocs.org/projects/lapyrinthe/badge/?version=latest)](https://readthedocs.org/projects/lapyrinthe/?badge=latest)
+.. image:: https://travis-ci.org/Linkid/lapyrinthe.svg?branch=master
+     :target: https://travis-ci.org/Linkid/lapyrinthe
+     :alt: Build Status
+.. image:: https://readthedocs.org/projects/lapyrinthe/badge/?version=latest
+     :target: https://readthedocs.org/projects/lapyrinthe/?badge=latest
+     :alt: Documentation Status
 
 
 Lapyrinthe is a labyrinth game written in Python.
 
-![Screenshot](https://raw.githubusercontent.com/Linkid/lapyrinthe/master/doc/source/_static/lapyrinthe_screen1.png)
+.. image:: https://raw.githubusercontent.com/Linkid/lapyrinthe/master/doc/source/_static/lapyrinthe_screen1.png
+   :alt: Screenshot
 
 
 Start
