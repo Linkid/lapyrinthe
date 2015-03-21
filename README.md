@@ -7,7 +7,7 @@ Lapyrinthe
 
 Lapyrinthe is a labyrinth game written in Python.
 
-![Screenshot](https://raw.githubusercontent.com/Linkid/lapyrinthe/master/images/lapyrinthe_screen1.png)
+![Screenshot](https://raw.githubusercontent.com/Linkid/lapyrinthe/master/doc/source/_static/lapyrinthe_screen1.png)
 
 
 Start
