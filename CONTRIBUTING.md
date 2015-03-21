@@ -34,4 +34,4 @@ Reporting issues
 ----------------
 
 If you have found a bug, please report it by creating a new issue on the
-`lapyrinthe GitHub issue tracker <http://github.com/Linkid/labyrinthe/issues>`_.
+`lapyrinthe GitHub issue tracker <http://github.com/Linkid/lapyrinthe/issues>`_.

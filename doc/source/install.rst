@@ -24,7 +24,7 @@ or you can download the latest tar file from `PyPI <https://pypi.python.org/pypi
 Developer version
 -----------------
 
-If you want to install the latest developer version, you can do so from the git repository:
+If you want to install the latest developer version, you can do so from the git repository::
 
     git clone https://github.com/Linkid/lapyrinthe.git
     cd lapyrinthe
