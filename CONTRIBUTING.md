@@ -21,3 +21,17 @@ Translators
 * Use PO and MO files
 
 Translations are available in [Launchpad](https://translations.launchpad.net/lapyrinthe).
+
+
+Making mazes
+------------
+
+* Contact me
+* Follow the doc
+
+
+Reporting issues
+----------------
+
+If you have found a bug, please report it by creating a new issue on the
+`lapyrinthe GitHub issue tracker <http://github.com/Linkid/labyrinthe/issues>`_.
